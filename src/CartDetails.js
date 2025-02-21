@@ -1,5 +1,4 @@
 import { useFetchData } from "./useFetchData";
-import "./styles.css";
 
 const CartDetails = () => {
   const {
